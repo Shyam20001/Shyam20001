@@ -4,7 +4,7 @@
 
 ---
 
-- 🔧 **Currently building:** [`brahma-js`](https://github.com/Shyam20001/jsrs) — a **fire-light sync orchestrator** built on top of **Rust's Hyper**,  
+- 🔧 **Currently building:** [`brahma-js`](https://github.com/Shyam20001/rsjs) — a **fire-light sync orchestrator** built on top of **Rust's Hyper**,  
   designed as a **native add-on** for **Node.js, Deno, and Bun**.  
   Solo-devving with a focus on raw performance and low-level control.
 
