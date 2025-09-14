@@ -20,25 +20,3 @@
 </p>
 
 ---
-
-<h3 align="left">Tech Stack</h3>
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  &nbsp;
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40" title="Rust"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" alt="Deno" width="40" height="40" title="Deno"/>
-  &nbsp;
-  <img src="https://bun.sh/logo.svg" alt="Bun" width="40" height="40" title="Bun"/>
-</p>
-
----
-
-<h3>📦 Explore My Stack in 3D</h3>
-<p>
-  <a href="https://my-techstack.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://drive.google.com/uc?id=1ZhpIrf6fxuRsNqYZnzXJ5n4ZmliELPod" width="600" height="400" alt="3D Tech Stack">
-  </a>
-</p>
