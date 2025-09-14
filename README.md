@@ -1,4 +1,4 @@
-<h1 align="center"> Hlo Fellas, I'm Shyam</h1>
+<h1 align="center"> Hlo Fellas❕, I'm Shyam</h1>
 <h3 align="center">JavaScript & Rust Architect</h3>
 <h4 align="center">Architecting scalable, high-performance systems with Node.js and Rust</h4>
 
