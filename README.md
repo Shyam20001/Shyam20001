@@ -4,10 +4,6 @@
 
 ---
 
-- 🔧 **Currently building:** [`brahma-js`](https://github.com/Shyam20001/rsjs) — a **fire-light async orchestrator** built on top of **Rust's Tokio & Hyper**,  
-  designed as a **native add-on** for **Node.js, Deno, and Bun**.  
-  Solo-devving with a focus on raw performance and low-level control.
-
 - 📫 Reach me at: **mshayam41@gmail.com**
 
 ---
